@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DotNET_Lab2/1.0.0": {
+        "dependencies": {
+          "stringTransform": "1.0.0"
+        },
+        "runtime": {
+          "DotNET_Lab2.dll": {}
+        }
+      },
+      "stringTransform/1.0.0": {
+        "runtime": {
+          "stringTransform.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNET_Lab2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "stringTransform/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

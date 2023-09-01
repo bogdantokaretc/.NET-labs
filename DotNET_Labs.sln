@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNET_Lab1", "DotNET_Lab1\DotNET_Lab1.csproj", "{4DFA4CD4-C514-4DA0-B402-58C1735F8B7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNET_Lab1", "DotNET_Lab1\DotNET_Lab1.csproj", "{4DFA4CD4-C514-4DA0-B402-58C1735F8B7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNET_Lab2", "DotNET_Lab2\DotNET_Lab2.csproj", "{A588463B-C448-474E-9E9A-EA74E5F2ECFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringTransform", "stringTransform\stringTransform.csproj", "{7E01901B-8063-46FE-A2E9-6EECD1D2D5A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{4DFA4CD4-C514-4DA0-B402-58C1735F8B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DFA4CD4-C514-4DA0-B402-58C1735F8B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DFA4CD4-C514-4DA0-B402-58C1735F8B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A588463B-C448-474E-9E9A-EA74E5F2ECFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A588463B-C448-474E-9E9A-EA74E5F2ECFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A588463B-C448-474E-9E9A-EA74E5F2ECFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A588463B-C448-474E-9E9A-EA74E5F2ECFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E01901B-8063-46FE-A2E9-6EECD1D2D5A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E01901B-8063-46FE-A2E9-6EECD1D2D5A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E01901B-8063-46FE-A2E9-6EECD1D2D5A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E01901B-8063-46FE-A2E9-6EECD1D2D5A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

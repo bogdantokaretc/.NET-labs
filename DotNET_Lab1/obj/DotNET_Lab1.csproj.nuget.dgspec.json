@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivan number one\\Source\\Repos\\financial-analysis\\DotNET_Lab1\\DotNET_Lab1.csproj": {}
+    "C:\\Users\\ivan number one\\Source\\Repos\\.NET-labs\\DotNET_Lab1\\DotNET_Lab1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivan number one\\Source\\Repos\\financial-analysis\\DotNET_Lab1\\DotNET_Lab1.csproj": {
+    "C:\\Users\\ivan number one\\Source\\Repos\\.NET-labs\\DotNET_Lab1\\DotNET_Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivan number one\\Source\\Repos\\financial-analysis\\DotNET_Lab1\\DotNET_Lab1.csproj",
+        "projectUniqueName": "C:\\Users\\ivan number one\\Source\\Repos\\.NET-labs\\DotNET_Lab1\\DotNET_Lab1.csproj",
         "projectName": "DotNET_Lab1",
-        "projectPath": "C:\\Users\\ivan number one\\Source\\Repos\\financial-analysis\\DotNET_Lab1\\DotNET_Lab1.csproj",
+        "projectPath": "C:\\Users\\ivan number one\\Source\\Repos\\.NET-labs\\DotNET_Lab1\\DotNET_Lab1.csproj",
         "packagesPath": "C:\\Users\\ivan number one\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivan number one\\Source\\Repos\\financial-analysis\\DotNET_Lab1\\obj\\",
+        "outputPath": "C:\\Users\\ivan number one\\Source\\Repos\\.NET-labs\\DotNET_Lab1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
