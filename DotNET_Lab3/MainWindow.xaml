@@ -15,8 +15,10 @@
         </Grid.ColumnDefinitions>
         <Canvas x:Name="MainCanvas" HorizontalAlignment="Center" Height="434" VerticalAlignment="Center" Width="400" Background="White"/>
         <Button x:Name="CreateSandglassButton" Content="Create Sunglass" Click="CreateSandglassButton_Click" Margin="0,170,0,0" VerticalAlignment="Top" Height="47" Grid.Column="2"/>
-        <TextBox x:Name="B" Grid.Column="2" HorizontalAlignment="Center" Margin="0,124,0,0" Text="0" VerticalAlignment="Top" Height="20" Width="200" TextWrapping="Wrap"/>
-        <TextBox x:Name="A" Grid.Column="2" HorizontalAlignment="Center" Margin="0,64,0,0" Text="0" VerticalAlignment="Top" Height="20" Width="200" TextWrapping="Wrap"/>
+        <TextBox x:Name="B" Grid.Column="2" Margin="30,120,0,0" Text="0" TextWrapping="Wrap" IsEnabled="False" Height="18" VerticalAlignment="Top"/>
+        <TextBox x:Name="A" Grid.Column="2" Margin="30,60,0,0" Text="0" TextWrapping="Wrap" KeyUp="A_KeyUp" Height="18" VerticalAlignment="Top"/>
+        <Label Grid.Column="2" Content="A =" HorizontalAlignment="Left" Margin="0,56,0,0" VerticalAlignment="Top"/>
+        <Label Grid.Column="2" Content="B =" HorizontalAlignment="Left" Margin="0,116,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
