@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\stringTransform\\bin",
-    "\\stringTransform\\bin\\Debug",
-    "\\stringTransform\\bin\\Debug\\net6.0"
+    "\\DotNET_Lab3"
   ],
   "SelectedNode": "\\DotNET_Labs.sln",
   "PreviewInSolutionExplorer": false
